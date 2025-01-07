@@ -1,7 +1,6 @@
 # WebSocketManager for Jetpack Compose
 
-`WebSocketManager` is a library built on top of [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android), designed to simplify the use of USB serial devices in Jetpack Compose applications.
-This library leverages Android USB Host Mode (OTG) to communicate with USB serial devices and makes managing USB connections and data processing straightforward within the Jetpack Compose environment.
+`WebSocketManager` is a module based on okhttp3 library, designed to simplify the use of Websocket Communication in Jetpack Compose applications.
 
 ## Features
 
